@@ -10,7 +10,7 @@
   <img src="https://github.com/mitul3737/mitul3737/raw/main/Wave.gif" height="55px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Tushar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p>As an aspiring developer, I have a strong foundation in data structures and algorithms, as well as experience with programming languages such as Java, HTML, CSS, and JavaScript, along with frameworks like React. Additionally, I am well-versed in the deployment and management of applications on the cloud using AWS services and have a good understanding of the Linux operating system. I am passionate about software development and am constantly seeking new opportunities to learn and grow in  field.</p>
+<p>As an aspiring developer, I have a strong foundation in data structures and algorithms, as well as experience with programming languages such as Java, HTML, CSS, and JavaScript, along with frameworks like React. Additionally, I am well-versed in the deployment and management of applications on the cloud using AWS services and have a good understanding of the Linux operating system. I am passionate about software development and am constantly seeking new opportunities to learn and grow in this field.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tushr&label=Profile%20views&color=0e75b6&style=flat" alt="1tushr" /> </p>
